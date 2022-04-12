@@ -5,6 +5,7 @@
         - **.PATCH**: Pull Request Title (PR Author) [PR Number](Link to PR)
 -->
 #### 6.10
+- **.18**: Fix split resizing during zoom toggling (ds2606) [#1269](https://github.com/preservim/nerdtree/pull/1308)
 - **.17**: Add 'b' binding to to jump to bookmark table. (ds2606) [#1305](https://github.com/preservim/nerdtree/pull/1305)
 - **.16**: Fix documentation errors. (lifecrisis) [#1269](https://github.com/preservim/nerdtree/pull/1269)
 - **.15**: Ensure backward compatible testing of types. (lifecrisis) [#1266](https://github.com/preservim/nerdtree/pull/1266)
